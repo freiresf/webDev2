@@ -246,7 +246,7 @@
         </fieldset>
     <!-- </div> -->
 
-        <script src="contas.js"></script>
+        <!-- <script src="contas.js"></script> -->
         <script src="LCG.js"></script>
 
         <script type="text/javascript">
