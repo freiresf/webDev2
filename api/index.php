@@ -13,7 +13,7 @@
             href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
         />
         
-        <script src="js-webshim/minified/polyfiller.js"></script>
+        <script src="js/js-webshim/minified/polyfiller.js"></script>
         <style type="text/css">
             .box {
                 /* background-color: rgb(90, 87, 80); */
