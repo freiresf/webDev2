@@ -254,7 +254,7 @@
             $("#form").submit(function(event) {
                 event.preventDefault();
                 $.ajax({
-                    url: 'contas.php', // Substitua pelo caminho do seu script PHP
+                    url: '../api/contas.php', // Substitua pelo caminho do seu script PHP
                     type: 'post',
                     data: $(this).serialize(),
                     success: function(data) {
